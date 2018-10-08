@@ -2,7 +2,8 @@
 using namespace std ;
 int main ()
 {
-bcout<<"hello";
+cout<<"hello";
+cout<<"abhimat"
 return 0;
 
 }
